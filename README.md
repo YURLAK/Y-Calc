@@ -11,7 +11,7 @@ And **more** features are on the way……
 
 ## Screenshot
 
-< img width="280" alt="image" src="https://user-images.githubusercontent.com/77920708/216798775-88451b97-7fd2-4857-9ca1-6b7532b02cad.png">
+<img width="280" alt="image" src="https://user-images.githubusercontent.com/77920708/216798775-88451b97-7fd2-4857-9ca1-6b7532b02cad.png">
 
 ## Feedback
 
