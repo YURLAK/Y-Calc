@@ -15,7 +15,7 @@ And **more** features are on the way……
 
 ## Feedback
 
-Haha,I'm such a **蒟蒻**,so your feedback is important to us.Welcome to **Star**,**Fork** and commit your **Pull Request**.Thank you!
+Haha,I'm such a **蒟蒻**,so your feedback is important to us.Welcome to **Star**,**Fork** and commit your **Pull Request** for the proposal.Thank you!
 
 ## License 
 
