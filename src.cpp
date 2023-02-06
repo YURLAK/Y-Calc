@@ -3,7 +3,7 @@ using namespace std;
 string tinp;//输入算式 
 int tsize=0;
 char inp[51];//正规的算式（string转char，否则无法进行运算） 
-double num[51];int n=0;//存数字 
+int num[51];int n=0;//存数字 
 char calcan[5];//优先级
 char calinp[51];int c=0;//输入符号
 char calpd[5];//判断符号
@@ -12,7 +12,7 @@ bool yes=false;
 void welcome(){
 	cout<<"Y-Calc v1.0,developed by YURLAK,2023.\nA simple calculate written in C++."<<endl;
 }
-int suan(double left,double right,char fh){
+ int suan(int left,int right,char fh){
 	switch(fh){
 		case '+':return (left+right);
 		case '-':return (left-right);
@@ -37,7 +37,7 @@ int read(char end){
 	}
 	return ans;
 }
-int run(){
+void run(){
 	while(yes==false){
 		if(!can(start)){
 			start++;
@@ -92,4 +92,3 @@ int main(){
 	}//将数和符号存进数组
 	run();
 }
-
