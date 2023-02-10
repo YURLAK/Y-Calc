@@ -9,9 +9,11 @@ A simple calculator written in **C++**.Developing……
 
 And **more** features are on the way……
 
-## Screenshot
+## Demo
 
-<img width="280" alt="image" src="https://user-images.githubusercontent.com/77920708/216798775-88451b97-7fd2-4857-9ca1-6b7532b02cad.png">
+You can see the demo video of this project down here(by asciinema)
+
+[![asciicast](https://asciinema.org/a/557672.svg)](https://asciinema.org/a/557672)
 
 ## Feedback
 
