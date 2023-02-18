@@ -4,10 +4,16 @@ A simple calculator written in **C++**.Developing……
 
 ## Features
 
-- `+`,`-`,`*`,`/`,`^` calculation.
-- Multi-bit **integer** calculation.
+- [x] `+`,`-`,`*`,`/`,`^` calculation.
+- [x] Multi-bit **integer** calculation.
 
-And **more** features are on the way……
+- [x] **Decimal** calculation.
+
+- [x] **Brackets** calculation.
+
+- [x] **Factorial** calculation
+
+- [ ] Repeat run
 
 ## Demo
 
